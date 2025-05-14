@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, moi c'est Yamine</h1>
 
 <p align="center">
-🎓 MSc Intelligence Artificielle & Big Data · 👨‍💻 Consultant Freelance Data & IA · 🎯 Orienté Impact Métier
+🎓 MSc Intelligence Artificielle & Big Data · 👨‍💻 Consultant Data & IA · 🎯 Orienté Impact Métier
 </p>
 
 ---
